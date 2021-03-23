@@ -1,18 +1,12 @@
 # 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚍𝚎𝚌𝚎𝚗𝚝
 
-[![](https://img.shields.io/badge/-@decent-linuxxx-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/decent-linuxxx)
-[![](https://img.shields.io/badge/-@decent-linuxxx-%23181717?style=flat-square&logo=github)](https://github.com/decent-linuxxx)
-[![](https://img.shields.io/badge/-@decent-linuxxx-%23000000?style=flat-square&logo=codepen)](https://codepen.io/decent-linuxxx)
-[![](https://img.shields.io/badge/-@decent-linuxxx-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/decent-linuxxx)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://zoriadev.me)
-
 𝑰 ❤️ 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 :computer: 𝑴𝒊𝒅𝒅𝒍𝒆 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑳𝒗𝒊𝒗, 𝑼𝒌𝒓𝒂𝒊𝒏𝒆.
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝑷𝒚𝒕𝒉𝒐𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝑭𝒍𝒂𝒔𝒌 𝒏𝒆𝒓𝒅
+:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝑷𝒚𝒕𝒉𝒐𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝑭𝒍𝒂𝒔𝒌 𝒏𝒆𝒓𝒅.
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/decent-linuxxx/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
+:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒄𝒐𝒅𝒊𝒏𝒈 𝒔𝒎𝒂𝒍𝒍 𝒐𝒓 𝒃𝒊𝒈 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝒎𝒚𝒔𝒆𝒍𝒇 𝒂𝒏𝒅 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒎𝒚 𝒄𝒐𝒅𝒆 𝒘𝒊𝒕𝒉 𝒆𝒗𝒆𝒓𝒚𝒐𝒏𝒆.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
