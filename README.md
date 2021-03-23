@@ -1,3 +1,1 @@
-<center>
-Ubuntu is good, isn't it?
-</center>
+<p align="center">Wroom, wroom</p>
